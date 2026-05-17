@@ -1,0 +1,19 @@
+{
+  "chat_id": "508292671",
+  "download_url": "https://raw.githubusercontent.com/soltaneghar-b/st35/refs/heads/download-25995943224/download.html",
+  "zip_url": "https://github.com/soltaneghar-b/st35/archive/refs/heads/zip-25995943224.zip",
+  "playlist_url": "https://raw.githubusercontent.com/soltaneghar-b/st35/refs/heads/stream-25995943224/playlist.m3u8",
+  "segments": [
+    "https://raw.githubusercontent.com/soltaneghar-b/st35/refs/heads/stream-25995943224/seg_1.mp4",
+    "https://raw.githubusercontent.com/soltaneghar-b/st35/refs/heads/stream-25995943224/seg_10.mp4",
+    "https://raw.githubusercontent.com/soltaneghar-b/st35/refs/heads/stream-25995943224/seg_11.mp4",
+    "https://raw.githubusercontent.com/soltaneghar-b/st35/refs/heads/stream-25995943224/seg_2.mp4",
+    "https://raw.githubusercontent.com/soltaneghar-b/st35/refs/heads/stream-25995943224/seg_3.mp4",
+    "https://raw.githubusercontent.com/soltaneghar-b/st35/refs/heads/stream-25995943224/seg_4.mp4",
+    "https://raw.githubusercontent.com/soltaneghar-b/st35/refs/heads/stream-25995943224/seg_5.mp4",
+    "https://raw.githubusercontent.com/soltaneghar-b/st35/refs/heads/stream-25995943224/seg_6.mp4",
+    "https://raw.githubusercontent.com/soltaneghar-b/st35/refs/heads/stream-25995943224/seg_7.mp4",
+    "https://raw.githubusercontent.com/soltaneghar-b/st35/refs/heads/stream-25995943224/seg_8.mp4",
+    "https://raw.githubusercontent.com/soltaneghar-b/st35/refs/heads/stream-25995943224/seg_9.mp4"
+  ]
+}
