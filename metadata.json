@@ -1,0 +1,10 @@
+{
+  "chat_id": "185273744",
+  "download_url": "https://raw.githubusercontent.com/soltaneghar-b/st35/refs/heads/download-25994482940/a89jzsw4C8Y_a89jzsw4C8Y_720p_20260517-150912.mp4",
+  "zip_url": "https://github.com/soltaneghar-b/st35/archive/refs/heads/zip-25994482940.zip",
+  "playlist_url": "https://raw.githubusercontent.com/soltaneghar-b/st35/refs/heads/stream-25994482940/playlist.m3u8",
+  "segments": [
+    "https://raw.githubusercontent.com/soltaneghar-b/st35/refs/heads/stream-25994482940/seg_1.mp4",
+    "https://raw.githubusercontent.com/soltaneghar-b/st35/refs/heads/stream-25994482940/seg_2.mp4"
+  ]
+}
